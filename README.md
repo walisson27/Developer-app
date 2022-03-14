@@ -16,10 +16,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48169247/151173069-faf03996-15c0-4a6b-815d-a28fca94e75f.png">
-</p>
-
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
